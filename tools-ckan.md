@@ -22,6 +22,9 @@ CKAN は、[data.gov](http://data.gov) (米国)、[data.gov.uk](http://data.gov.
 また、下記ホームページで、環境ごとのインストール方法が紹介されている。   
 <https://github.com/okfn/ckan/wiki/How-to-Install-CKAN>
 
+### バージョン
+2.1
+
 ### 使用方法
 #### 用語解説
 CKANで利用されている用語の解説を以下に記す。
