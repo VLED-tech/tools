@@ -23,11 +23,15 @@ Web上で動作するため、インストールは必要ない。
 ### 使用方法
 PDFファイルをExcelに変換する手順は、以下の通りである。
 
-||操作|画像|
-|:-|:-|:-:|
-|1|[SmallpdfのWebページ]（http://www.smallpdf.com/jp/） にある、「PDF Excel 変換」をクリックする。|<img src="images/smallpdf/top.png" width="60%" />|
-|2| 「ここにドロップ」と書かれた箇所にPDFファイルをドロップする|<img src="images/smallpdf/pdf-to-excel.png" width="60%" />|
-|3|変換が完了すると、「ファイルをダウンロードしてください」という画面に遷移する。「ファイルをダウンロード」リンクをクリックすると、変換されたExcelファイルを入手できる。|<img src="images/smallpdf/completed.png" width="60%" />|
+手順1.
+[SmallpdfのWebページ](http://www.smallpdf.com/jp/) にある、「PDF Excel 変換」をクリックする。  
+<img src="images/smallpdf/top.png" width="60%" />
+
+手順2.  「ここにドロップ」と書かれた箇所にPDFファイルをドロップする。  
+<img src="images/smallpdf/pdf-to-excel.png" width="60%" />  
+
+手順3. 変換が完了すると、「ファイルをダウンロードしてください」という画面に遷移する。「ファイルをダウンロード」リンクをクリックすると、変換されたExcelファイルを入手できる。  
+<img src="images/smallpdf/completed.png" width="60%" />
 
 
 
