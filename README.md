@@ -6,7 +6,15 @@
 
 2. 共通ツール
 
-    2.1 [QGIS](tools-qgis.md)
+    2.1 地理空間情報関連ツール
+
+        2.1.1 [QGIS](tools-qgis.md)
+
+        2.1.2 [Google Maps](tools-gmap.md)
+
+    2.2 ファイル形式変換ツール
+
+        2.2.1 [Smallpdf](tools-smappdf.md)
 
 3. データ公開用ツール
 
