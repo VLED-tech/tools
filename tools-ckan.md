@@ -17,9 +17,10 @@ CKAN は、[data.gov](http://data.gov) (米国)、[data.gov.uk](http://data.gov.
 <http://ckan.org/developers/docs-and-download/>からダウンロードできる。
 
 ### インストール方法
-下記ホームページに、公式のインストール・設定方法がまとめられている。   
+下記Webページに、公式のインストール・設定方法がまとめられている。   
 <http://docs.ckan.org/en/latest/>   
-また、下記ホームページで、環境ごとのインストール方法が紹介されている。   
+
+また、下記ページは、環境ごとのインストール方法を紹介している。   
 <https://github.com/okfn/ckan/wiki/How-to-Install-CKAN>
 
 ### バージョン
